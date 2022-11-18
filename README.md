@@ -1,2 +1,3 @@
-# Hello-world
-Python Hello world
+#hello world
+
+print("hello world")
